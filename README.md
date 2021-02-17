@@ -1,2 +1,2 @@
 # real-hw3
-Template directory for student submissions for HW3
+COMP 431 Spring 2021 - FTP Client/Server
